@@ -543,7 +543,7 @@ Memoria disponible: %2$s"</string>
     <string name="lockscreen_transport_play_description">Botón Play</string>
     <string name="lockscreen_emergency_call">Llamada Emergencia</string>
     <string name="android_lockscreen_too_many_failed_attempts_countdown">@android:string/lockscreen_too_many_failed_attempts_countdown</string>
-    <string name="unlockscreen_recharging_message">Recargando %d%%</string>
+    <string name="unlockscreen_recharging_message">Cargando %d%%</string>
     <string name="unlockscreen_recharge_completed">Carga completa</string>
     <string name="emergency_call_string">Emergencia</string>
     <string name="forget_password_string">Clave olvidada</string>
