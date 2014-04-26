@@ -206,7 +206,7 @@
   <!--Original value: Done-->
   <string name="save_label">OK</string>
   <!--Original value: Cancel-->
-  <string name="discard_label">Revertir</string>
+  <string name="discard_label">Descartar</string>
   <!--Original value: Snooze all-->
   <string name="snooze_all_label">Posponer</string>
   <!--Original value: Dismiss all-->
