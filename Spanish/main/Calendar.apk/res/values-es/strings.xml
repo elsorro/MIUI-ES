@@ -212,7 +212,7 @@
   <!--Original value: Dismiss all-->
   <string name="dismiss_all_label">Descartar</string>
   <!--Original value: Snooze-->
-  <string name="snooze_label">"Dormitar"</string>
+  <string name="snooze_label">"Posponer"</string>
   <!--Original value: One-time event-->
   <string name="does_not_repeat">Evento único</string>
   <!--Original value: Daily-->
